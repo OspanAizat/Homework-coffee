@@ -1,0 +1,99 @@
+body{
+    background-color:#eee8e0
+}
+h1{
+    background-image:url(https://static.tildacdn.com/tild3030-6665-4630-b936-636332373431/8.jpg);
+    margin-top: 20px;
+    color: #53363a;
+    font-family:'Covered By Your Grace', cursive;
+    text-align: center;
+    background-image: center;
+    padding: 70px;
+    background-size: cover;
+    background-position: center;
+    font-size: 60px;
+}
+h3{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 100;
+    text-align: center;
+    font-size: x-large;
+    color:#41292c;
+}
+p{
+    text-align:center;
+    color:#a19d98;
+}
+ul h2{
+    color: #e3bc99;
+    font-family: 'Raleway';
+    font-style: normals;
+    font-weight: 1px;
+    text-decoration:none;
+    list-style: none;
+}
+.container{
+    padding: 40px;
+    background-color: #eee8e0;
+}
+.roasting{
+    background-color: white;
+    padding:100px;
+
+}
+.green{
+    background-color: #99c39a;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+.light{
+    background-color: #a96342;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+.city{
+    background-color: #96582e;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color :white;
+}
+.vienna{
+    background-color: #af4040;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+.italian{
+    background-color: #191919;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+h5{
+    text-decoration:none;
+}
+h4, h5{
+    color: white;
+}
+
+ul hr {
+    color:#e3bc99;
+}
+ul a {
+    color:black;
+    text-decoration-line: none;
+}
